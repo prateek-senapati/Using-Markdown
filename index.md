@@ -11,7 +11,7 @@ recently started learning programming.**
 
 ### - What I do.
 
-I have passion to design and i do crazy things.
+**I have passion to design and i do crazy things.**
 
 ####     -I love programming
 
