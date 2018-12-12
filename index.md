@@ -15,17 +15,17 @@ I have passion to design and i do crazy things.
 
 **-I love programming**
 
-![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/a.jpg)
+![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/blob/master/a.jpg)
 I make small programs. I also participates in online competitions. 
 
 **-I'm an Otaku**
 
-![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/b.jpg)
+![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/blob/master/b.jpg)
 I love to watch Anime and I do read the Manga's too.
 
 **-Editing**
 
-![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/c.jpg)
+![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/blob/master/c.jpg)
  Just edit photos and videos for fun.
 
 
@@ -49,6 +49,11 @@ If you have any project you want to get help feel free to contact me.
 [Github](https://github.com/amanRaj1608)
 
 [Facebook](https://www.facebook.com/AmanRaj1608)
+
+
+
+
+
 
 
 
