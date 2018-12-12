@@ -7,52 +7,47 @@ recently started learning programming.**
 
 ### - Profession
 
-```markdown
-Student 🤘
-```
+**Student ** 🤘
 
 ### - What I do.
 
-```markdown
-
 I have passion to design and i do crazy things.
 
-# - I love programming
+**-I love programming**
 
 ![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/a.jpg)
 I make small programs. I also participates in online competitions. 
 
-# - I'm an Otaku
+**-I'm an Otaku**
 
 ![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/b.jpg)
 I love to watch Anime and I do read the Manga's too.
 
-# - Editing
+**-Editing**
 
 ![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/c.jpg)
  Just edit photos and videos for fun.
 
-```
 
-### - Skills
+
+### - Skills 
 
 ```markdown
-Student 🤘
+
+C , C++ , Git , GitHub , Python.
+
 ```
 
+For more details see [GitHub](https://github.com/amanRaj1608).
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
+If you have any project you want to get help feel free to contact me.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Linkedin](https://www.linkedin.com/in/amanraj1608/)
+[Github](https://github.com/amanRaj1608)
+[Facebook](https://www.facebook.com/AmanRaj1608)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmanRaj1608/amanraj1608.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--------------------------------THANK YOU FOR VISITING-----------------------------------------
