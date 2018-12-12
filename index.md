@@ -17,13 +17,14 @@ I have passion to design and i do crazy things.
 
 ![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/blob/master/a.jpg)
 
-   **I make small programs. I also participates in online competitions. **
+   **I make small programs.** **I also participates in online competitions.**
 
 ####     -I'm an Otaku
 
 ![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/blob/master/b1.gif)
                  
    **I love to watch Anime and I do read the Manga's too.**
+   [Here](https://github.com/AmanRaj1608/amanraj1608.github.io/i.md) is my link of Anime list.
 
 ####     -Editing
 
