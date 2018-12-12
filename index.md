@@ -5,12 +5,13 @@ I am perusing _B.Tech in Computer Science and Engineering_ from [_Indian Institu
 Information Technology Vadodara_](http://www.iiitvadodara.ac.in/). I am in first year and i have
 recently started learning programming.**
 
-### Profession
+### - Profession
 
 ```markdown
 Student
+```
 
-### What I do.
+### - What I do.
 I do random things just for fun
 ```markdown
 
