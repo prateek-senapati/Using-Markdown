@@ -1,17 +1,21 @@
 ## Welcome to my site
 
-**_Hi! I am Aman Raj_. A 18 year old boy who is currently living in _Gujarat_.
+**_Hi! I am Aman Raj_. I'm 18 and currently living in _Gujarat_.
 I am perusing _B.Tech in Computer Science and Engineering_ from [_Indian Institute of
 Information Technology Vadodara_](http://www.iiitvadodara.ac.in/). I am in first year and i have
 recently started learning programming.**
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Profession
 
 ```markdown
-Syntax highlighted code block
+Student
+
+### What I do.
+I do random things just for fun
+```markdown
+
+# Create Softwares
+![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/a.jpg)
 
 # Header 1
 ## Header 2
