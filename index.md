@@ -1,37 +1,51 @@
 ## Welcome to my site
 
-**_Hi! I am Aman Raj_. I'm 18 and currently living in _Gujarat_.
-I am perusing _B.Tech in Computer Science and Engineering_ from [_Indian Institute of
-Information Technology Vadodara_](http://www.iiitvadodara.ac.in/). I am in first year and i have
+**Hi! I am _Aman Raj_. I'm 18 and currently living in _Gujarat_.
+I am perusing _B.Tech in Computer Science and Engineering_ from** [_Indian Institute of
+Information Technology Vadodara_](http://www.iiitvadodara.ac.in/)**. I am in first year and i have
 recently started learning programming.**
 
 ### - Profession
 
 ```markdown
-Student
+Student 🤘
 ```
 
 ### - What I do.
-I do random things just for fun
+
 ```markdown
 
-# Create Softwares
-![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/a.jpg)
+I have passion to design and i do crazy things.
 
-# Header 1
-## Header 2
-### Header 3
+# - I love programming
+
+![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/a.jpg)
+I make small programs. I also participates in online competitions. 
+
+# - I'm an Otaku
+
+![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/b.jpg)
+I love to watch Anime and I do read the Manga's too.
+
+# - Editing
+
+![Image](https://github.com/AmanRaj1608/amanraj1608.github.io/c.jpg)
+ Just edit photos and videos for fun.
+
+```
+
+### - Skills
+
+```markdown
+Student 🤘
+```
+
 
 - Bulleted
 - List
 
 1. Numbered
 2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
