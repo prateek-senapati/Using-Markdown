@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my site
 
-You can use the [editor on GitHub](https://github.com/AmanRaj1608/amanraj1608.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**_Hi! I am Aman Raj_. A 18 year old boy who is currently living in _Gujarat_.
+I am perusing _B.Tech in Computer Science and Engineering_ from [_Indian Institute of
+Information Technology Vadodara_](http://www.iiitvadodara.ac.in/). I am in first year and i have
+recently started learning programming.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
